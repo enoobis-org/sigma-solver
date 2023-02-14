@@ -6,5 +6,5 @@ Simple Statistics Calculator using "statistics"
 ```
 sigma-solver v1.0 / start
 sigma-solver v1.1 / "mode" fixed
-sigma-solver v1.1 / "black theme" added 
+sigma-solver v1.2 / "black theme" added 
 ```
