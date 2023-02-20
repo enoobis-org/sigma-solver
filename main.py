@@ -64,7 +64,7 @@ def calculate_statistics():
     median_label.config(text=f"Median: {median}\n\n{median_process}", fg=FG_COLOR, bg=LABEL_BG_COLOR)
     mode_label.config(text=f"Mode: {mode}\n\n{mode_process}", fg=FG_COLOR, bg=LABEL_BG_COLOR)
 root = Tk()
-root.title("sigma-solver v1.2")
+root.title("sigma-solver v1.3")
 root.geometry("820x820")
 root.configure(background=BG_COLOR)
 
